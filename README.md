@@ -46,3 +46,6 @@ WiFi Autoconnect
 - 5.) Add wifi network credentials
 - 6.) Device will now autoconnect to WiFi
 ---------------------------------------------------------------------------------------------------------------------------
+![alt tag](https://github.com/quocnh/OSA_Medical_Devices/blob/main/Documentation/image.png?raw=true)
+![alt tag](https://github.com/quocnh/OSA_Medical_Devices/blob/main/Documentation/IMG_20211112_153427.jpeg?raw=true)
+![alt tag](https://github.com/quocnh/OSA_Medical_Devices/blob/main/Documentation/img_20211025_174301.jpeg?raw=true)
