@@ -1,11 +1,9 @@
 # ESP32_MedicalDevice
-- Senior Design
-- eagle software
-*This document is a work-in-progress*
+IoT devices to collect SPo2 and ECG for cancer treatment.
 
 Downloading Repo from Github
 ---------------------------------------------------------------------------------------------------------------------------
-- 1.) Navigate to "https://github.com/th0712/ESP32_MedicalDevice"
+- 1.) Navigate to "https://github.com/quocnh/OSA_Medical_Devices"
 - 2.) Copy HTTPS link
 - 3.) Open Git Bash in a local folder
 - 4.) enter "git clone <Insert HTTP link here>"
