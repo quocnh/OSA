@@ -1,0 +1,14 @@
+You need to open TCP 22,80,443,1883 and UDP 5683 ports in inbound rules.
+
+You also need to open above port in EC2 using UFW
+
+
+You need to deactivate your instance on license portal, delete the license file which is
+located at /usr/share/thingsboard/bin/instance-license.data and restart ThingsBoard.
+
+CAnnot SSH after enable Firewall in EC2
+https://medium.com/@manprajapat/cant-access-ssh-after-enable-ufw-in-ec2-aws-koffee-with-kode-5e481a5631c6
+
+
+1. https://thingsboard.io/docs/user-guide/install/cluster/aws-self-hosted-setup/
+2. https://thingsboard.io/docs/user-guide/install/pe/ubuntu/?ubuntuThingsboardDatabase=postgresql&ubuntuThingsboardQueue=inmemory
