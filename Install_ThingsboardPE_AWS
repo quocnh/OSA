@@ -1,4 +1,4 @@
-You need to open TCP 22,80,443,1883 and UDP 5683 ports in inbound rules.
+You need to open TCP 22,80,443,1883,8080 and UDP 5683 ports in inbound rules.
 
 You also need to open above port in EC2 using UFW
 
