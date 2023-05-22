@@ -24,6 +24,7 @@ Installing Firmware to ESP32
 	-Tools -> Board -> ESP32 dev module
 	-Tools -> upload speed -> 115200
 	-Tools -> Port -> select your COM port
+	(https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads) iff missing driver
 	-upload (arrow symbol)
 	-If connection doesn't work, close sketch, disconnect and reconnect USB, reopen sketch and upload
 ---------------------------------------------------------------------------------------------------------------------------
